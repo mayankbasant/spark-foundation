@@ -1,0 +1,146 @@
+*{
+padding:0;
+margin:0;
+}
+ header{
+    height: 100vh;
+
+    width: 100%;
+
+
+    background: url("child.jpeg");
+
+    background-size: cover;
+
+    background-attachment: fixed;
+
+    background-repeat: no-repeat;
+
+}
+
+
+nav{
+
+    width: 100%;
+
+    height: 70px;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+    color: black;
+
+
+}
+
+.logo
+{
+    
+    padding-top: 5px;
+
+    color:white;
+
+    font-size: 50px;
+
+    padding-left: 100px;
+
+    letter-spacing: 5px;
+
+
+}
+
+.menu a{
+    
+    color:whitesmoke;
+
+    text-decoration: none;
+
+    padding: 5px 15px;
+
+    margin: 7px 8px;
+    font-size: 15px;
+
+    font-weight: bold;
+
+}
+
+
+
+.menu span
+{
+    
+    padding: 5px 15px;
+
+    color: black;
+
+    background-color: lightgreen;
+
+    border-radius: 15px;
+
+}
+
+.menu a:hover
+{
+    color: black;
+
+    background-color: lightgreen;
+
+    border-radius: 15px;
+
+    transform: 0.4s;
+}
+
+#about{
+
+    height: 100vh;
+
+    width: 100%;
+
+    background: url("black.jpeg");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-attachment: fixed;
+
+}
+
+
+#contact{
+    height: 100vh;
+
+    width: 100%;
+
+    background: url("poor2.jpeg");
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    background-attachment: fixed;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
