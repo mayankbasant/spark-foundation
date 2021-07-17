@@ -1,0 +1,57 @@
+*{
+padding:0;
+margin:0;
+}
+ header{
+    height: 100vh;
+
+    width: 100%;
+
+    background: url("bg11.jpeg");
+
+    background-size: cover;
+
+    background-attachment: fixed;
+
+    background-repeat: no-repeat;
+
+}
+
+
+nav
+{
+
+    width:100%;
+
+    height:70px;
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+}
+
+
+.logo
+{
+    
+padding-top: 5px;
+
+    color:white;
+
+    font-size: 50px;
+
+    padding-left: 100px;
+
+    letter-spacing: 5px;
+
+}
+
+
+.logo span{
+    
+color:red;
+
+}
